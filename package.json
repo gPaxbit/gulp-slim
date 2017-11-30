@@ -36,7 +36,6 @@
     "should": "^7.0.4"
   },
   "scripts": {
-    "test": "node_modules/.bin/mocha --compilers coffee:coffee-script/register -R spec",
     "prepublish": "gulp coffee"
   },
   "engines": {
