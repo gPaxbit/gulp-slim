@@ -24,14 +24,14 @@
     "template"
   ],
   "dependencies": {
-    "coffee-script": "^1.9.3",
+    "coffeescript": "latest",
     "gulp-util": "^3.0.6",
     "spawn-cmd": "0.0.2",
     "through2": "^0.6.5"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulpcoffee": "latest",
+    "gulp-coffee": "latest",
     "mocha": "^2.2.5",
     "should": "^7.0.4"
   },
